@@ -1,1 +1,2 @@
+name>url
 Sample Pack>https://github.com/GrechTech/BabyProjectorDVR/releases/download/demo/SampleVideos.zip
