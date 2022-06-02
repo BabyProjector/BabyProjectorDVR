@@ -1,2 +1,2 @@
 name>url
-Sample Pack (NEW)>https://github.com/BabyProjector/BabyProjectorDVR/releases/download/TestB/RealSampleVideos.zip
+Sample Pack>https://github.com/BabyProjector/BabyProjectorDVR/releases/download/TestB/RealSampleVideos.zip
